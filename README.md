@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Hi, I'm **Chenjun Zheng**!
 
-<!--
-**Iloveprogramm/Iloveprogramm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing my Bachelor's degree in IT with a specialization in Enterprise System Development at the University of Technology Sydney.
 
-Here are some ideas to get you started:
+🛠️ Actively diving into full-stack technologies, preparing myself for future development roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Feel free to ask me about enterprise system development or any full-stack related topics.
+
+📫 **How to reach me:**
+- Email: chenjunzhengjim@gmail.com
+- Phone: 0451100403
+
+🔗 **Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/jm-zheng-30878728a/)
