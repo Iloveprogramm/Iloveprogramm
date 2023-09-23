@@ -1,14 +1,16 @@
-👋 Hi, I'm **Chenjun Zheng**!
+👋 Hello, World! I'm **Zheng Chenjun**.
 
-🎓 I'm currently pursuing my Bachelor's degree in IT with a specialization in Enterprise System Development at the University of Technology Sydney.
+🎓 Studying IT at the University of Technology Sydney, specializing in Enterprise System Development.
 
-🛠️ Actively diving into full-stack technologies, preparing myself for future development roles.
+🔧 Immersing myself into the world of full-stack tech, gearing up for the developer roles of tomorrow.
 
-💬 Feel free to ask me about enterprise system development or any full-stack related topics.
+🌟 Want to dive deeper into my journey? Explore [my personal website](https://iloveprogramm.github.io/)!
 
-📫 **How to reach me:**
-- Email: chenjunzhengjim@gmail.com
-- Phone: 0451100403
+🤔 Got questions about enterprise system development or full-stack? Let's chat!
 
-🔗 **Connect with me:**
+📧 Reach out to me:
+- 📩 Email: [chenjunzhengjim@gmail.com](mailto:chenjunzhengjim@gmail.com)
+
+🌐 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/jm-zheng-30878728a/)
+
