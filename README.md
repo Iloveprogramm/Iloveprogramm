@@ -1,4 +1,4 @@
-👋 Hello, World! I'm **Zheng Chenjun**.
+👋 Hello, World! I'm **Chenjun Zheng**.
 
 🎓 Studying IT at the University of Technology Sydney, specializing in Enterprise System Development.
 
