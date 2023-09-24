@@ -9,6 +9,9 @@
 - 3 years as a Painter, honing my attention to detail and hands-on skills.
 - 1 month as a Tutor, creating teaching materials and presentations.
 
+🌟 Want to dive deeper into my journey? Explore [my personal website](https://iloveprogramm.github.io/)!
+
+
 🌟 Eager to learn and passionate about exploring new innovations. During university, I often took the lead in group assignments, enhancing my management abilities.
 
 📩 **Reach out to me**:
