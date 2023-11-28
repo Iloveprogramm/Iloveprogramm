@@ -11,7 +11,7 @@
 
 🌟 Eager to learn and passionate about exploring new innovations. During university, I often took the lead in group assignments, enhancing my management abilities.
 
-🌟 Want to dive deeper into my journey? Explore my personal website! https://iloveprogramm.github.io/
+🌟 Want to dive deeper into my journey? Explore my personal website! [https://iloveprogramm.github.io/](https://iloveprogramm.github.io/IIoveprogramm.github.io/)
 
 📩 **Reach out to me**:
 - Email: [chenjunzhengjim@gmail.com](mailto:chenjunzhengjim@gmail.com)
