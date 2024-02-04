@@ -3,7 +3,7 @@
 🎓 **Educational Background**:
 - High School: Australian International High School (2019-2020)
 - Diploma: IT from UTS College (GPA: 5.8/7.0, 2021)
-- Bachelor: IT at the University of Technology Sydney (Major: Enterprise System Development, GPA: 6.39/7.0, WAM: 84.54/100, 2022-2023)
+- Bachelor: IT at the University of Technology Sydney (Major: Enterprise System Development, GPA: 6.5/7.0, WAM: 86.5/100, 2022-2023)
 
 🔧 **Experience**:
 - 3 years as a Painter, honing my attention to detail and hands-on skills.
