@@ -21,6 +21,6 @@
 
 🌐 **Connect with me**:
 
-- [LinkedIn](https://www.linkedin.com/in/jm-zheng-30878728a/)
+- [LinkedIn](https://www.linkedin.com/in/chenjun-zheng-30878728a/)
 
 🤔 Got questions about enterprise system development or IT in general? Let's chat!
