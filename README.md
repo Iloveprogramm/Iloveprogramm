@@ -11,7 +11,7 @@ Bachelor: IT at the University of Technology Sydney (Major: Enterprise System De
 1 month as a Tutor, creating teaching materials and presentations.
 🌟 Eager to learn and passionate about exploring new innovations. During university, I often took the lead in group assignments, enhancing my management abilities.
 
-🌟 Want to dive deeper into my journey? Explore my personal website! https://iloveprogramm.github.io/
+🌟 Want to dive deeper into my journey? Explore my personal website! [https://iloveprogramm.github.io/](https://github.com/Iloveprogramm/IIoveprogramm.github.io)
 
 📩 Reach out to me:
 
