@@ -8,7 +8,7 @@
 
 🔧 **Experience**:
 
-- 3 years as a Painter, honing my attention to detail and hands-on skills.
+- 4 years as a Painter, honing my attention to detail and hands-on skills.
 - 1 month as a Tutor, creating teaching materials and presentations.
 
 🌟 Eager to learn and passionate about exploring new innovations. During university, I often took the lead in group assignments, enhancing my management abilities.
