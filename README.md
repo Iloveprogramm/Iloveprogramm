@@ -17,7 +17,9 @@
 I have built two personal portfolio websites to showcase my projects, achievements, and skills:
 
 Old Website: https://iloveprogramm.github.io/
+
 New Website: https://personal-website-sepia-nu.vercel.app/
+
 Feel free to explore both versions to see how I have continuously improved as a developer!
 
 📩 **Reach out to me**:
