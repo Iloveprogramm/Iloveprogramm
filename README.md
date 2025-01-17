@@ -16,8 +16,9 @@
 🌟 Want to dive deeper into my journey?
 I have built two personal portfolio websites to showcase my projects, achievements, and skills:
 
-Old Website: A foundational platform that highlights my early projects and development journey.
-New Website: An upgraded, modern portfolio built with the latest web technologies, providing a comprehensive view of my professional growth and recent work.
+Old Website: https://iloveprogramm.github.io/
+New Website: https://personal-website-sepia-nu.vercel.app/
+Feel free to explore both versions to see how I have continuously improved as a developer!
 
 📩 **Reach out to me**:
 
