@@ -16,7 +16,7 @@
 🌟 Want to dive deeper into my journey?
 I have built two personal portfolio websites to showcase my projects, achievements, and skills:
 
-Old Website: https://iloveprogramm.github.io/
+Old Website: https://iloveprogramm.github.io/IIoveprogramm.github.io/
 
 New Website: https://personal-website-sepia-nu.vercel.app/
 
