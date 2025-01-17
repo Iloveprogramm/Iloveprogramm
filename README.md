@@ -13,7 +13,11 @@
 
 🌟 Eager to learn and passionate about exploring new innovations. During university, I often took the lead in group assignments, enhancing my management abilities.
 
-🌟 Want to dive deeper into my journey? Explore my personal website! [https://iloveprogramm.github.io/](https://iloveprogramm.github.io/IIoveprogramm.github.io/)
+🌟 Want to dive deeper into my journey?
+I have built two personal portfolio websites to showcase my projects, achievements, and skills:
+
+Old Website: A foundational platform that highlights my early projects and development journey.
+New Website: An upgraded, modern portfolio built with the latest web technologies, providing a comprehensive view of my professional growth and recent work.
 
 📩 **Reach out to me**:
 
